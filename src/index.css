@@ -1,0 +1,16 @@
+.abbr {
+
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  width: 70%;
+  align-items: center;
+  justify-content: space-around;
+  margin: auto;
+
+}
+
+.card {
+  border:1px solid black;
+  width: 20%;
+}
